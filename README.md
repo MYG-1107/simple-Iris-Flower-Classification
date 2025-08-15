@@ -18,10 +18,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns -->
 
 # Load dataset
+<!--
 iris = load_iris()
 data = pd.DataFrame(iris.data, columns=iris.feature_names)
 data['species'] = iris.target  # 0: Setosa, 1: Versicolor, 2: Virginica
-print(data.head())  # View first 5 rows
+print(data.head())  # View first 5 rows -->
 
 2. Data Exploration and Preprocessing
 Visualize data to spot patterns and split into training (80%) and testing (20%) sets.
