@@ -27,16 +27,15 @@ print(data.head())  # View first 5 rows -->
 2. Data Exploration and Preprocessing
 Visualize data to spot patterns and split into training (80%) and testing (20%) sets.
 # Visualize relationships
-<!--
 sns.pairplot(data, hue='species')
-plt.show() -->
+plt.show() 
 
 # Features (X) and labels (y)
 X = data.drop('species', axis=1)
 y = data['species']
 
 # Train-test split
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+<!--X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42) -->
 
 Why? Training data teaches the model; testing data checks if it generalizes.
 3. Train the Model
