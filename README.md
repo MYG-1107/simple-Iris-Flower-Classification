@@ -69,15 +69,3 @@ What You’ll Learn
 ML Workflow: Data → Preprocessing → Training → Evaluation → Prediction.
 AI Context: This is supervised ML (uses labeled data). AI extends to neural networks, etc.
 Pitfalls: Overfitting (model memorizes training data). Always split data to test generalization.
-
-Next Steps
-
-Run this in Google Colab: Copy-paste code sections.
-Explore: Change new_flower values or try a neural network (e.g., with Keras).
-Resources:
-YouTube: Search "Scikit-learn Iris Tutorial".
-Book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron.
-Kaggle: kaggle.com for datasets and competitions.
-
-
-Next Project: Try sentiment analysis on text data (e.g., movie reviews).
