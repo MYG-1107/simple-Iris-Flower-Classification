@@ -6,7 +6,7 @@ Python 3.8+ (or use Google Colab: colab.research.google.com)
 Libraries: Install via !pip install scikit-learn pandas matplotlib seaborn in Colab or locally.
 No prior ML knowledge required.
 
-# Project Steps
+## Project Steps
 1. Import Libraries and Load Data
 The Iris dataset contains 150 samples with 4 features (sepal length, sepal width, petal length, petal width) and a label (species).
 <!-- import pandas as pd
