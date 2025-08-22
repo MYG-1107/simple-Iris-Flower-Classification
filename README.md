@@ -63,8 +63,8 @@ prediction = model.predict(new_flower)
 species_names = ['Setosa', 'Versicolor', 'Virginica']
 print(f"Predicted species: {species_names[prediction[0]]}")
 
-Try different measurements to see varying predictions.
-What You’ll Learn
+<i>Try different measurements to see varying predictions.
+What You’ll Learn</i>
 
 ML Workflow: Data → Preprocessing → Training → Evaluation → Prediction.
 AI Context: This is supervised ML (uses labeled data). AI extends to neural networks, etc.
