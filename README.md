@@ -17,7 +17,7 @@ from sklearn.metrics import accuracy_score
 import matplotlib.pyplot as plt
 import seaborn as sns -->
 
-# Load dataset
+## Load dataset
 <!--
 iris = load_iris()
 data = pd.DataFrame(iris.data, columns=iris.feature_names)
