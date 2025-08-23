@@ -66,6 +66,6 @@ print(f"Predicted species: {species_names[prediction[0]]}")
 <i>Try different measurements to see varying predictions.
 What You’ll Learn</i>
 
-ML Workflow: Data → Preprocessing → Training → Evaluation → Prediction.
+ML Workflow: <B>Data → Preprocessing → Training → Evaluation → Prediction.</B>
 AI Context: This is supervised ML (uses labeled data). AI extends to neural networks, etc.
 Pitfalls: Overfitting (model memorizes training data). Always split data to test generalization.
