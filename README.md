@@ -68,5 +68,5 @@ What You’ll Learn</i>
 
 ML Workflow: <B>Data → Preprocessing → Training → Evaluation → Prediction.</B><br>
 AI Context: This is supervised ML (uses labeled data). AI extends to neural networks, etc.<br>
-Pitfalls: Overfitting (model memorizes training data).
+Pitfalls: Overfitting (model memorizes training data).<BR>
 Always split data to test generalization.
