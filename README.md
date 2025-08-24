@@ -2,9 +2,6 @@
 This project introduces <b><i>machine learning (ML)</i></b> by building a model to <b>classify iris flowers into three species (Setosa, Versicolor, Virginica) based on measurements like petal length and width. It uses the classic Iris dataset and Python with scikit-learn, ideal for beginners to understand the ML workflow.</b>
 
 
-Python 3.8+ (or use Google Colab: colab.research.google.com)
-Libraries: Install via !pip install scikit-learn pandas matplotlib seaborn in Colab or locally.
-No prior ML knowledge required.
 
 ## Project Steps
 1. Import Libraries and Load Data
