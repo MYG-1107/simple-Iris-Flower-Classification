@@ -1,5 +1,5 @@
 # Simple Iris Flower Classification
-This project introduces machine learning (ML) by building a model to classify iris flowers into three species (Setosa, Versicolor, Virginica) based on measurements like petal length and width. It uses the classic Iris dataset and Python with scikit-learn, ideal for beginners to understand the ML workflow.
+This project introduces <i>machine learning (ML)</i> by building a model to classify iris flowers into three species (Setosa, Versicolor, Virginica) based on measurements like petal length and width. It uses the classic Iris dataset and Python with scikit-learn, ideal for beginners to understand the ML workflow.
 Prerequisites
 
 Python 3.8+ (or use Google Colab: colab.research.google.com)
